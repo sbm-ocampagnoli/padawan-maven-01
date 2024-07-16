@@ -29,6 +29,7 @@
 	</repositories>
 
 	<build>
+	  <finalName>loja</finalName>
 		<plugins>
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
